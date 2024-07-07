@@ -291,11 +291,11 @@ São dicas separado e pilares (*Excelencia operacional, Segurança, Confiabilida
 Pode-se fazer uma Tag (Milestone) para marcar e medir pontos a partir que for evoluindo e melhorando a arquitetura. O Milestone é importante para acompanhar as evoluções da arquitetura a medida que vai respondendo o "formulário" do well-architected. É possível também gerar um relatório bem detalhado do momento atual.
 
 ### Quais são os cinco pilares da estrutura?
-* Excelência Operacional
-* Segurança
-* Confiabilidade
-* Eficiência de performance
-* Otimização de custo
+* **Excelência Operacional(Operational Exellence) :** executar e monitorar para __entregar valor__
+* **Segurança(Security) :** __proteger__ informações e sistemas
+* **Confiabilidade(Realiability) :** __garantir__ que um carga de trabalho execute sua função __pretendida__ corretamente e de __modo consistente__
+* **Eficiência de performance(Performace Efficiency) :** __uso efiente__ de ___recursos___ e ___computação___
+* **Otimização de custo(Cost Optimization) :** __compreensão__ e __controle__ de onde o dinheiro está sendo gasto, __ajustando__ os ___recursos___ e ___serviços___
 
 ## Migração e Inovação
 
