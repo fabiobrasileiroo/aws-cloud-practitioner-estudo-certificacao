@@ -314,3 +314,4 @@ A AWS Snow Family consiste nos serviços __AWS Snowcone__(Capacidade de 8TB), __
 # Preparaçãp para a prova
 ### Divisão de perguntas
 ![image](https://user-images.githubusercontent.com/53017748/179562013-35c6d771-cb11-4d3d-89c0-f15dba44878b.png)
+**Saiba mais sobre no pdf**: ![AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
