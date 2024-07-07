@@ -133,7 +133,7 @@ O simple storage service é o armazenamento para objetos (como se fosse um dropb
 ## Banco de Dados
 
 ### O que é o RDS?
-O Relacionation Database Service é o serviço de banco de dados relacional (SQL) da aws. É como se fosse o EC2 com o banco de dados já configurado. O usuário não acessa a máquina toda, apenas o banco de dados. O Amazon RDS é um serviço gerenciado que automatiza tarefas como provisionamento de hardware, configuração de banco de dados, patch e backups.
+O Relacionation Database Service é o serviço de banco de dados relacional (SQL) da aws. É como se fosse o EC2 com o banco de dados já urado. O usuário não acessa a máquina toda, apenas o banco de dados. O Amazon RDS é um serviço gerenciado que automatiza tarefas como provisionamento de hardware, configuração de banco de dados, patch e backups.
 
 ### O que é o Amazon Aurora?
 É um banco relacional de nivel empresarial, compatível com o MySQL ou o PostgreSQL, até 5x mais rápido que o MySQL padrão e 3x que o Postgre, faz backup contínuo para o S3. O preço é 1/10 do custo de bases de dados comerciais
@@ -216,6 +216,9 @@ Firewall de aplicação web para filtar o tráfego de entrada detectando rastros
 ### O que é o AWS KMS?
 O AWS Key Management Service (AWS KMS) permite que você execute operações de criptografia pelo uso de chaves de criptografia.
 Você pode usar o AWS KMS para criar, gerenciar e usar chaves de criptografia. 
+
+### O que é o AWS Config?
+É um serviço que permite avaliar, auditar e avaliar as configurações dos seus recursos da AWS. O AWS Config monitora e registra as configurações dos recursos da AWS e permite que você automatize a avaliação das configurações registradas contra as configurações desejadas.
 
 ### O que é o AWS Artifect?
 Ele fornece os relatórios de conformidade com os orgãos que a aws atende as leis e regulamentação.
