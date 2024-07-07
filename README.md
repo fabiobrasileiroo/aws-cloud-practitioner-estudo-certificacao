@@ -287,15 +287,16 @@ O AWS Cost Explorer inclui um relatório básico dos custos e do uso dos cinco p
 ### O que é o Well-Architected Framework?
 É um conjunto de boas práticas que me guiam no projeto de infraestrutura.
 É um questionário que contém perguntas sobre o seu ambiente da aws e que no final será emitido um relatório com os níveis de risco que você tem dentro da aws.
-São dicas separado e pilares (*Excelencia operacional, Segurança, Confiabilidade, Performance, Otimização de custo*) para melhorar seu ambiente da aws.
+São dicas separado e pilares (*Excelencia operacional, Segurança, Confiabilidade, Performance, Otimização de custo, Sustentabilidae*) para melhorar seu ambiente da aws.
 Pode-se fazer uma Tag (Milestone) para marcar e medir pontos a partir que for evoluindo e melhorando a arquitetura. O Milestone é importante para acompanhar as evoluções da arquitetura a medida que vai respondendo o "formulário" do well-architected. É possível também gerar um relatório bem detalhado do momento atual.
 
-### Quais são os cinco pilares da estrutura?
-* **Excelência Operacional(Operational Exellence) :** executar e monitorar para __entregar valor__
-* **Segurança(Security) :** __proteger__ informações e sistemas
-* **Confiabilidade(Realiability) :** __garantir__ que um carga de trabalho execute sua função __pretendida__ corretamente e de __modo consistente__
-* **Eficiência de performance(Performace Efficiency) :** __uso efiente__ de ___recursos___ e ___computação___
-* **Otimização de custo(Cost Optimization) :** __compreensão__ e __controle__ de onde o dinheiro está sendo gasto, __ajustando__ os ___recursos___ e ___serviços___
+### Quais são os seis pilares da estrutura?
+1. **Excelência Operacional(Operational Exellence) :** executar e monitorar para __entregar valor__
+2. **Segurança(Security) :** __proteger__ informações e sistemas
+3. **Confiabilidade(Realiability) :** __garantir__ que um carga de trabalho execute sua função __pretendida__ corretamente e de __modo consistente__
+4. **Eficiência de performance(Performace Efficiency) :** __uso efiente__ de ___recursos___ e ___computação___
+5. **Otimização de custo(Cost Optimization) :** __compreensão__ e __controle__ de onde o dinheiro está sendo gasto, __ajustando__ os ___recursos___ e ___serviços___
+6. **Sustentabilidade :** __minimizar os impactos ambientes__ da execução da carga de trabalho na nuvem
 
 ## Migração e Inovação
 
