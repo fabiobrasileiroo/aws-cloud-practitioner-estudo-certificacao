@@ -312,6 +312,8 @@ A AWS Snow Family consiste nos serviços __AWS Snowcone__(Capacidade de 8TB), __
 É um serviço de business intelligence (BI) em escala de nuvem que você pode usar para fornecer easy-to-understandinsights para as pessoas com quem você trabalha, onde quer que estejam. Tipo um power BI
 
 # Preparaçãp para a prova
+![Prova aws](https://github.com/fabiobrasileiroo/aws-cloud-practitioner-estudo-certificacao/assets/99563281/30aa8889-5040-47ed-ac08-d88fcff095c0)
+
 ### Divisão de perguntas
-![image](https://user-images.githubusercontent.com/53017748/179562013-35c6d771-cb11-4d3d-89c0-f15dba44878b.png)
-**Saiba mais sobre no pdf**: ![AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
+
+
