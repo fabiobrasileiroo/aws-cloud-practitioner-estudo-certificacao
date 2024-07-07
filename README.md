@@ -1,4 +1,4 @@
-# Guia de bolso para certificação AWS Cloud Practitioner
+# Guia de bolso para certificação AWS Cloud Practitioner (CLF-C02)
 
 ## Introdução a Nuvem AWS
 
